@@ -106,7 +106,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "Malikmosh",
       "required": false
     },
     "URL": {
@@ -121,7 +121,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "256700273834",
       "required": false
     },
     "WARN_COUNT": {
